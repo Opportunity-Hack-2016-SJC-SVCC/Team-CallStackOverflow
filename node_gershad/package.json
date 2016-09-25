@@ -1,0 +1,30 @@
+{
+  "name": "lcob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-base64-upload": "^0.1.19",
+    "angular-material": "^1.1.0",
+    "angular-route": "^1.5.8",
+    "express": "^4.14.0",
+    "ng-file-upload": "^12.1.0",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "http": "0.0.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
